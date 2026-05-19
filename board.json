@@ -14,5 +14,13 @@
     "title": "Szkolenie z LDT",
     "message": "W piątek o 14:00 odbędzie się szkolenie online z obsługi programu.",
     "type": "info"
+  },
+    {
+    "id": 3,
+    "date": "2026-05-20",
+    "company": "ALL",
+    "title": "Szkolenie z LDT",
+    "message": "W piątek o 14:00 odbędzie się szkolenie online z obsługi programu.",
+    "type": "important"
   }
 ]
